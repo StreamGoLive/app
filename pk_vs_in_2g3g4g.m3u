@@ -1,4 +1,5 @@
 #EXTM3U
+#Islam
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",MADANI CHANNEL
 https://vodzong.mjunoon.tv:8087/streamtest/Madni-121/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",MADANI CHANNEL
@@ -79,6 +80,7 @@ https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_480p.m3u8
 https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
 
 #EXTM3U
+#Palestine-TV
 #EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",AL JAZEERA ENG
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",AL JAZEERA ENG
@@ -103,6 +105,7 @@ https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
 https://htvmada.mada.ps:4443/maannews/tracks-v1a1/mono.m3u8
 
 #EXTM3U
+#Pakistan-4G
 #EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",MAKKAH TV
 https://tapmadlive.akamaized.net/tapmadold/makkah.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",EURO SPORT
