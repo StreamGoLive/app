@@ -304,54 +304,10 @@ https://stream.e2is.in/hls/7xMusic.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",ABP NEWS
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",ABP NEWS
-https://d1ribbj7ls43cr.cloudfront.net/hls/7014.ABPNews.in.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",ABP GANGA
-https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",ABP MAJHA
-https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",ABP SANJHANA
-https://d316coox0if60r.cloudfront.net/out/v1/7723f2221c3449c3910aaa8f91592bf0/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",TAAZA TV
-https://stream.playbox.co.in:19360/taaza/taaza.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",AWAAZ INDIA
 https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",ET NOW
 https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",LIVING INDIA
-https://livelegitpro.in/hls14/livingindia/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",ZEE NEWS
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",ZEE BUSINESS
-https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",TN BHARAT
-https://d3859l818t7v85.cloudfront.net/hlslive/Admin/px0219322/live/WatchoZee/master.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",NEWS 24
-https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",NEWS 24
-https://livectv1.phando.com/8010/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",PTC NEWS
-https://livectv1.phando.com/8011/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",TV 9 BHARATVARSH
-https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",TV 9 BANGLA
-https://vidcdn.vidgyor.com/tv9bangla-origin/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",TV 9 GUJARATI
-https://vidcdn.vidgyor.com/tv9gujarati-origin/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",TV 9 KANNADA
-https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",TV 9 MARATHI
-https://vidcdn.vidgyor.com/tv9marathi-origin/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",TV 9 TELUGU
-https://vidcdn.vidgyor.com/tv9telugu-origin/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",TV 9 TAMIL
-https://livectv1.phando.com/8017/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",DD NEWS
-https://livectv1.phando.com/8001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",PRIME NEWS
-https://livectv1.phando.com/8050/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",SUDHARSHAN NEWS
-https://livectv1.phando.com/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",AAJ TAK
@@ -364,24 +320,8 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m
 https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/digital/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",INDIA TV
 https://d1ribbj7ls43cr.cloudfront.net/hls/0091.IndiaTV.in.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",SANDAD TV
-https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",INH 24X7
 https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",IND 24 TV
-https://gmkd5nkednxo-hls-live.wmncdn.net/ind24tv/live.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",SAHANA NEWS
-https://livectv1.phando.com/8035/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",REPUBLIC BANGLA
-https://livectv1.phando.com/8036/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",NEWS TIME BANGLA
-https://livectv1.phando.com/8039/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",NEWS J
-https://livectv1.phando.com/8040/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",A1 TV
-http://cdn.smartstream.video/smartstream-us/newsstate/newsstate.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",NEWS 11
-http://cdn.smartstream.video/smartstream-us/news11/news11/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",SAMACHAR 24
 https://imagetv.shemaroo.com/hls5/samachar24/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",SADHANA PLUS
@@ -390,84 +330,24 @@ https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",K ABHI TAK
-https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",JANTV TV
-https://live.wmncdn.net/jantatv/live.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",SUDARSHAN TV
-https://ott.livelegitpro.in/pusa/sudarshantv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",JANAM TV
-https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",INDIA TODAY
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",ASIANET NEWS
-https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",ASIANET KANNADA
-https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",ASIANET TAMIL
-https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",CHANNEL Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",DIGHVIJAY 24X7
-https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",MALABAR NEWS
-http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",NDTV PROFIT
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",NDTV PROFIT
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",PRATIDIN TIME
-https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",REAL KERALA
 https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",SWARAJ EXPRESS
-https://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",TV9 KANNADA
-https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",WION
-https://dai.google.com/linear/hls/event/x_dFvsORSZWERbxrltEk0g/master.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",PRUDENT NEWS
-https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",Z MALYALAM NEWS
-https://prudentmcdn.rixcast.com/prudentm.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",NEWS LIVE 24X7
-https://5b48d7e1b4bce.streamlock.net/myapp/newslive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",DY 365
 https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",K NEWS INDIA
 https://knews.livebox.co.in/youtubehls/live.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",K NEWS INDIA
-https://livectv1.phando.com/8003/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",NEWS NATION
-https://livectv1.phando.com/8006/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",TV 1000
-https://livectv1.phando.com/8007/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",GULISTAN NEWS
-https://livestream.jktvonline.com/hls/gul.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",JK NEWS 24X7
-https://livestream.jktvonline.com/hls/jk.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",HAMDARD TV
-https://tv.hamdardtv.com/hamdard/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",PRATHAM KHABAR
 https://livelegitpro.in/hls2/newstime/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",BTV NEWS
-https://vidcdn.vidgyor.com/btv-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",KBC KOLKATA
-https://5dd3981940faa.streamlock.net/kbcration/kbcration/chunklist_w1636153982.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",NK TV
-https://rtmp.smartstream.video/nktvlive/nktvlive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",VTV NEWS
-https://cdn.smartstream.video/smartstream-us/vtvlive/vtvlive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",PRATIDIN TIME
-https://5b48d7e1b4bce.streamlock.net/pratidintime/pratidintime/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",GOA 365
-https://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",RDX GOA
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",HIGH NEWS
 https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",HORNBILL TV
-http://172.104.191.216:1935/hornbilltv/hornbilltv/playlist.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Indian-News",RASI TAMIL
