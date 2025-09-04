@@ -1,0 +1,1159 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",MADANI CHANNEL
+https://vodzong.mjunoon.tv:8087/streamtest/Madni-121/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",MADANI CHANNEL
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/0.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",MADANI BANGLA
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",MADANI ENG
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",AL EHSAAN TV
+https://cdn.bmstudiopk.com/alehsaan/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",SAUDI QURAN
+https://vodzong.mjunoon.tv:8087/streamtest/SaudiQuran-142/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",MADANI TV
+https://vodzong.mjunoon.tv:8087/streamtest/Madni-121/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",TAKBEER TV
+https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",IH TV URDU
+https://live.imamhossaintv.com/live/ih4.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",IH TV FARSI
+https://live.imamhossaintv.com/live/ih1.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",IH TV ARABI
+https://live.imamhossaintv.com/live/ih2.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",IH TV ENG
+https://live.imamhossaintv.com/live/ih3.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",AL ISTIQAMA
+http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",IQRAA
+https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",IQRAA
+https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",IQRAA EUROPE
+https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",ISLAM URDU
+https://live-islamtv-urdu.simplestreamcdn.com/live7/islamtv_urdu/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",CHANNEL WIN
+https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",I PLUS TV
+https://live.we2live.in/iplustv/iplustv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",DEEN TV
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HYDER TV
+https://cdn.live247stream.com/hyder/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI URDU
+https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI MALYSIA
+https://live.ishiacloud.com/haditv.co.uk/haditv2.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI RUSSIA
+https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI FARSI
+https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI HAUSA
+https://live.ishiacloud.com/haditv.co.uk/haditv5.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI PASHTO
+https://live.ishiacloud.com/haditv.co.uk/haditv6.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI TV 7
+https://live.ishiacloud.com/haditv.co.uk/haditv7.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI TV 8
+https://live.ishiacloud.com/haditv.co.uk/haditv8.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",PAYAM TV
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",DIYANET TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",BAHRAIN QURAN
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",SALAM TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",EMAN TV
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",AL QAMAR
+https://pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",ALMASIRA MUBASHER
+https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/almasiramubacherpublish/almasira/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",IBN TV
+http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI TV 3
+https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_480p.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",AL KAFEEL TV
+https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",AL JAZEERA ENG
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",AL JAZEERA ENG
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",PALESTINE TV
+https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",PALESTINE TODAY
+https://live.paltodaytv.com/paltv/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",NABLUS TV
+http://htvmada.mada.ps:8888/nabluslive/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",HALA TV
+https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",PALESTINE TV
+https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",RAJEEN TV
+https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",WATTAN TV
+http://htvmada.mada.ps:8888/wattan/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",MUSAWA HD
+https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",MA AN NEWS
+https://htvmada.mada.ps:4443/maannews/tracks-v1a1/mono.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",MAKKAH TV
+https://tapmadlive.akamaized.net/tapmadold/makkah.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",EURO SPORT
+https://tapmadlive.akamaized.net/tapmadold/eurosports.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",DISCOVERY KIDS
+https://tapmadlive.akamaized.net/tapmadold/discoverykids.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",DISCOVERY CHANNEL
+https://tapmadlive.akamaized.net/tapmadold/discovery.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",BOL ENT
+https://tapmadlive.akamaized.net/tapmadold/bolent.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",FILM WORLD
+https://tapmadlive.akamaized.net/tapmadold/filmworld.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",A TV
+https://tapmadlive.akamaized.net/tapmadold/atv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",A PLUS
+https://tapmadlive.akamaized.net/tapmadold/aplus.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",SEE TV HD
+https://tapmadlive.akamaized.net/tapmadold/seetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",PLAY TV
+https://tapmadlive.akamaized.net/tapmadold/playmax.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",AAJ ENTERTAINMENT
+https://tapmadlive.akamaized.net/tapmadold/aajnews.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",DISCOVER PAK
+https://livecdn.live247stream.com/discoverpakistan/tapmad/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",ANIMAL PLANET
+https://tapmadlive.akamaized.net/tapmadold/animal1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",CARTOON NET URDU
+https://tapmadlive.akamaized.net/tapmadold/cartoon.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",SAMAA NEWS
+https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",AAJ NEWS
+https://tapmadlive.akamaized.net/tapmadold/aajent.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",BOL NEWS
+https://tapmadlive.akamaized.net/tapmadold/bolnews.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",METRO ONE NEWS
+https://tapmadlive.akamaized.net/tapmadold/metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",KOHE NOOR TV
+https://tapmadlive.akamaized.net/tapmadold/kohenoor.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",NEO NEWS
+https://tapmadlive.akamaized.net/tapmadold/neo.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",24 NEWS HD
+https://tapmadlive.akamaized.net/tapmadold/channel24.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",CHANNEL 5
+https://tapmadlive.akamaized.net/tapmadold/channel5.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",CITY 42 NEWS
+https://tapmadlive.akamaized.net/tapmadold/city42.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",SUCH NEWS
+https://tapmadlive.akamaized.net/tapmadold/sachtv.smil/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",GNN
+https://tapmadlive.akamaized.net/tapmadold/jaagtv.smil/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",K21 NEWS
+https://tapmadlive.akamaized.net/tapmadold/k21.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",DHARTI NEWS
+https://tapmadlive.akamaized.net/tapmadold/dhartitv.smil/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",AVT KHYBER
+https://tapmadlive.akamaized.net/tapmadold/khyber.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",KHYBER NEWS
+https://tapmadlive.akamaized.net/tapmadold/khybernews.smil/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",AWAZ TV
+https://tapmadlive.akamaized.net/tapmadold/awaztv.smil/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",SINDH TV
+https://tapmadlive.akamaized.net/tapmadold/sindhtv.smil/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",SINDH NEWS
+https://tapmadlive.akamaized.net/tapmadold/sindhnews.smil/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",MEHRAN TV
+https://tapmadlive.akamaized.net/tapmadold/mehran.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",KAY 2 TV
+https://tapmadlive.akamaized.net/tapmadold/k2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",VSH NEWS
+https://tapmadlive.akamaized.net/tapmadold/vsh.smil/playlist.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Drama",HAMARA TV
+https://j7md5mbeyrwv-hls-live.5centscdn.com/hamara/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Drama",GEO TV
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Drama",EXPRESS TV
+https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Drama",AUR LIFE HD
+http://124.109.47.101/hls/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Drama",SEE TV HD
+https://vodzong.mjunoon.tv:8087/streamtest/SeeTV-156/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Drama",TV ONE
+https://vodzong.mjunoon.tv:8087/streamtest/TV1-129/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Drama",URDU 1
+https://vodzong.mjunoon.tv:8087/streamtest/Urdu1-158-4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Drama",MOVIE ONE
+https://vodzong.mjunoon.tv:8087/streamtest/movie-one-176/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Drama",PLAY TV
+https://vodzong.mjunoon.tv:8087/streamtest/playtv-154/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Drama",APNA CHANNEL
+https://vodzong.mjunoon.tv:8087/streamtest/ApnaChannel-134/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Drama",CHAMPION TV
+https://vodzong.mjunoon.tv:8087/streamtest/champion-177/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Drama",8XM
+https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Drama",JALWA TV
+https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Drama",CN PK
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Drama",DISCOVER PAKISTAN
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Drama",ABN URDU
+https://rtmp2.abnvideos.com/hls/abnurdu.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Drama",SUBRANG TV
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Drama",EWAAZ TV
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Drama",TAG TV
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Drama",TORONTO 360
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Drama",CANADA ONE
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-News",SUNO NEWS HD
+https://cdn.bmstudiopk.com/sunotv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-News",VOICE NEWS
+https://cdn.bmstudiopk.com/vop/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-News",DUNYA NEWS
+http://1161218186.rsc.cdn77.me/DunyaNews/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-News",DUNYA NEWS INT
+https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-News",DUNYA NEWS UK
+https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-News",GEO NEWS
+http://1161218186.rsc.cdn77.me/GeoNews/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-News",GEO NEWS
+https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-News",GEO TEZ
+https://jk3lz82elw79-hls-live.5centscdn.com/TEZ/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-News",ABN HD
+https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-News",SAMAA NEWS
+https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-News",ABB TAK NEWS
+https://vodzong.mjunoon.tv:8087/streamtest/AbbTakNews-133/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-News",NEWS 1 HD
+https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-News",NEO NEWS HD
+https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-News",GNN HD
+https://vodzong.mjunoon.tv:8087/streamtest/gnnnews-181/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-News",LAHORE RUNG
+https://vodzong.mjunoon.tv:8087/streamtest/lhrrang-179/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-News",K21 NEWS
+https://vodzong.mjunoon.tv:8087/streamtest/K21News-116/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-News",CHANNEL 5
+https://vodzong.mjunoon.tv:8087/streamtest/Channel5-159-4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-News",PNN NEWS
+https://cdn.bmstudiopk.com/pnn/smil:PNN.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-News",92 NEWS HD
+https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-News",92 NEWS UK
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-News",LAHORE HD
+https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-News",TRT WORLD
+https://tv-trtworld.live.trt.com.tr/master_360.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",KASHISH TV
+https://vodzong.mjunoon.tv:8087/streamtest/Kashish-150/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",HUM PASHTO 1
+https://vodzong.mjunoon.tv:8087/streamtest/PASHTOTV-119/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",AVT KHYBER
+https://vodzong.mjunoon.tv:8087/streamtest/AVTKhyber-114/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",KAY 2
+https://vodzong.mjunoon.tv:8087/streamtest/KAY2-127/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",KTN
+https://vodzong.mjunoon.tv:8087/streamtest/KTN-149/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",WASEEB TV
+https://vodzong.mjunoon.tv:8087/streamtest/WASEB-130/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",MASHRIQ TV
+https://vodzong.mjunoon.tv:8087/streamtest/mashriq-109/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",AFGHAN TV
+https://vodzong.mjunoon.tv:8087/streamtest/AfghanTV-140/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",TIME NEWS
+https://vodzong.mjunoon.tv:8087/streamtest/time-news-172/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",KHYBER NEWS
+https://vodzong.mjunoon.tv:8087/streamtest/KhyberNews-160/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",KTN NEWS
+https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",PTV BOLAN
+https://streams.simpaisa.com:8443/pitvlive4/ptvbolan.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",PTV NATIONAL
+https://streams.simpaisa.com:8443/pitvlive4/ptvnational.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",PASHTO 1
+https://streams.simpaisa.com:8443/pitvlive4/pushto1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",AVT KHYBER TV
+https://streams.simpaisa.com:8443/pitvlive4/khyber.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",AVT KHYBER TV
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",AVT KHYBER ME
+https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/index_150_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",KAY 2 TV
+https://streams.simpaisa.com:8443/pitvlive4/k2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",KAY 2 TV
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/index_150_av-p.m3u8?sd=6&rebase=on
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",WASEEB TV
+https://streams.simpaisa.com:8443/pitvlive4/waseeb.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",MEHRAN TV
+https://streams.simpaisa.com:8443/pitvlive4/mehran.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",DHARTI TV
+https://streams.simpaisa.com:8443/pitvlive4/dhartitv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",SINDH TV
+https://streams.simpaisa.com:8443/pitvlive4/sindhtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",AWAZ TV
+https://streams.simpaisa.com:8443/pitvlive4/awaztv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",KTN
+http://103.24.96.74/ktn/ktn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",KASHISH TV
+http://103.24.96.74/ktn/kashish/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",KTN NEWS
+http://103.24.96.74/ktn/ktnnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",KHYBER NEWS
+https://streams.simpaisa.com:8443/pitvlive4/khybernews.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",KHYBER NEWS
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",VSH NEWS
+https://streams.simpaisa.com:8443/pitvlive4/khybernews.smil/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",MOVIE CLUB
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",SONY MAX HD
+http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",STAR GOLD HD
+http://116.202.46.40:9023/STAR_GOLD_HINDI/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",STAR GOLD HD
+http://217.20.112.199/stargold/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",STAR GOLD 2
+http://116.202.46.40:9023/STAR_GOLD_2_HINDI/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",STAR GOLD 2
+http://217.20.112.199/stargold2/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",STAR GOLD SELECT
+http://116.202.46.40:9023/STAR_GOLD_SELECT_HINDI/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",AND PICTURES
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures1/default/andpictures1.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",AND PICTURES HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",ZEE CINEMA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema1/default/zeecinema1.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",ZEE CINEMA HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",ZEE CINEMA
+http://217.20.112.199/zeecinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",ZEE ANMOL CINEMA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/zeeanmolcinema1.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",ZEE BOLLYWOOD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",ZEE BOLLYWOOD
+http://212.102.34.8:9080/ZeeBollywood/video.m3u8?
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",ZEE ACTION
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",MBC BOLLYWOOD
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",BOLLYWOOD HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",BOLLY PRIME
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",SHEMAROO BOLLYWOOD
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",BOLLYWOOD CLASSIC
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",ZEE AFLAM
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",B4U MOVIES
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC23/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",B4U KADAK
+https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",BHOJPURI CINEMA
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",FILAMCHI
+https://epiconvh.s.llnwi.net/filamchi/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",MANORANJAN TV
+http://idvd.multitvsolution.com/idvo/manoranjantv.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",MAHA MOVIES
+https://idvd.multitvsolution.com/idvo/mahamovie.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",WOW CINEMA
+https://idvd.multitvsolution.com/idvo/wowcinema.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",BFLIX MOVIES
+https://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",MANORANJAN MOVIES LQ
+https://idvd.multitvsolution.com/idvo/manoranjanmovies.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Entertainment",RISHTEY TV
+https://www.toprevenuegate.com/xd3bpqyp78?key=f1f47d1c2e6ac452a70f00c753492f91
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Entertainment",MBC BOLLYWOOD
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8?samitvhd
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Entertainment",ZEE WORLD
+https://da6c334e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9aZWVXb3JsZF9ITFM/playlist.m3u8?samitvhd
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Entertainment",STAR UTSAV
+https://remainmother.com/xd3bpqyp78?key=f1f47d1c2e6ac452a70f00c753492f91
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Entertainment",SONY KAL
+https:\\spt-sonykal-1-us.lg.wurl.tv\playlist_192k.m3u8?samitvhd
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Entertainment",NAZARA TV
+https://epiconvh.s.llnwi.net/nazara/master.m3u8?samitvhd
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Entertainment",DANGAL TV
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8?samitvhd
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Entertainment",DANGAL 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8?samitvhd
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Entertainment",ISHARA TV
+https://epiconvh.s.llnwi.net/ishaara/master_480.m3u8?samitvhd
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Entertainment",ISHARA TV
+https://epiconvh.s.llnwi.net/ishaara/master.m3u8?samitvhd
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Entertainment",EPIC
+https://epiconvh.s.llnwi.net/epic/master.m3u8?samitvhd
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Entertainment",ZEE KERALAM
+http://54.39.106.158/zee_keralam/mono.m3u8?samitvhd
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Entertainment",ENTERR 10 BANGLA
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8?samitvhd
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Music",B4U MUSIC
+https://cdn2.pishow.tv/live/141/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Music",HINDI HITS
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Music",MTV BEATS
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Music",BOLLY HUNGAMA
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Music",ZOOM
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Music",JOO MUSIC
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Music",SHOW BOX
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Music",E 24
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Music",MASTIII
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Music",9X JALWA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Music",9X JALWA
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Music",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Music",9XM
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Music",MUSIC INDIA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Music",SANGEET BHOJPURI
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=247600.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Music",7X MUSIC
+https://stream.e2is.in/hls/7xMusic.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",ABP NEWS
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",ABP NEWS
+https://d1ribbj7ls43cr.cloudfront.net/hls/7014.ABPNews.in.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",ABP GANGA
+https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",ABP MAJHA
+https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",ABP SANJHANA
+https://d316coox0if60r.cloudfront.net/out/v1/7723f2221c3449c3910aaa8f91592bf0/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",TAAZA TV
+https://stream.playbox.co.in:19360/taaza/taaza.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",AWAAZ INDIA
+https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",ET NOW
+https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",LIVING INDIA
+https://livelegitpro.in/hls14/livingindia/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",ZEE NEWS
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",ZEE BUSINESS
+https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",TN BHARAT
+https://d3859l818t7v85.cloudfront.net/hlslive/Admin/px0219322/live/WatchoZee/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",NEWS 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",NEWS 24
+https://livectv1.phando.com/8010/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",PTC NEWS
+https://livectv1.phando.com/8011/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",TV 9 BHARATVARSH
+https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",TV 9 BANGLA
+https://vidcdn.vidgyor.com/tv9bangla-origin/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",TV 9 GUJARATI
+https://vidcdn.vidgyor.com/tv9gujarati-origin/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",TV 9 KANNADA
+https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",TV 9 MARATHI
+https://vidcdn.vidgyor.com/tv9marathi-origin/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",TV 9 TELUGU
+https://vidcdn.vidgyor.com/tv9telugu-origin/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",TV 9 TAMIL
+https://livectv1.phando.com/8017/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",DD NEWS
+https://livectv1.phando.com/8001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",PRIME NEWS
+https://livectv1.phando.com/8050/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",SUDHARSHAN NEWS
+https://livectv1.phando.com/8016/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",AAJ TAK HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",AAJ TAK
+https://feeds.intoday.in/aajtak/api/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",GNT
+https://feeds.intoday.in/gnt/api/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",NDTV INDIA
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",INDIA TV
+https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/digital/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",INDIA TV
+https://d1ribbj7ls43cr.cloudfront.net/hls/0091.IndiaTV.in.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",SANDAD TV
+https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",INH 24X7
+https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",IND 24 TV
+https://gmkd5nkednxo-hls-live.wmncdn.net/ind24tv/live.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",SAHANA NEWS
+https://livectv1.phando.com/8035/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",REPUBLIC BANGLA
+https://livectv1.phando.com/8036/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",NEWS TIME BANGLA
+https://livectv1.phando.com/8039/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",NEWS J
+https://livectv1.phando.com/8040/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",A1 TV
+http://cdn.smartstream.video/smartstream-us/newsstate/newsstate.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",NEWS 11
+http://cdn.smartstream.video/smartstream-us/news11/news11/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",SAMACHAR 24
+https://imagetv.shemaroo.com/hls5/samachar24/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",SADHANA PLUS
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",NDTV INDIA
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",K ABHI TAK
+https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",JANTV TV
+https://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",SUDARSHAN TV
+https://ott.livelegitpro.in/pusa/sudarshantv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",JANAM TV
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",INDIA TODAY
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",ASIANET NEWS
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",ASIANET KANNADA
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",ASIANET TAMIL
+https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",CHANNEL Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",DIGHVIJAY 24X7
+https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",MALABAR NEWS
+http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",NDTV PROFIT
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",NDTV PROFIT
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",PRATIDIN TIME
+https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",REAL KERALA
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",SWARAJ EXPRESS
+https://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",TV9 KANNADA
+https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",WION
+https://dai.google.com/linear/hls/event/x_dFvsORSZWERbxrltEk0g/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",PRUDENT NEWS
+https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",Z MALYALAM NEWS
+https://prudentmcdn.rixcast.com/prudentm.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",NEWS LIVE 24X7
+https://5b48d7e1b4bce.streamlock.net/myapp/newslive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",DY 365
+https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",K NEWS INDIA
+https://knews.livebox.co.in/youtubehls/live.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",K NEWS INDIA
+https://livectv1.phando.com/8003/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",NEWS NATION
+https://livectv1.phando.com/8006/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",TV 1000
+https://livectv1.phando.com/8007/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",GULISTAN NEWS
+https://livestream.jktvonline.com/hls/gul.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",JK NEWS 24X7
+https://livestream.jktvonline.com/hls/jk.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",HAMDARD TV
+https://tv.hamdardtv.com/hamdard/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",PRATHAM KHABAR
+https://livelegitpro.in/hls2/newstime/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",BTV NEWS
+https://vidcdn.vidgyor.com/btv-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",KBC KOLKATA
+https://5dd3981940faa.streamlock.net/kbcration/kbcration/chunklist_w1636153982.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",NK TV
+https://rtmp.smartstream.video/nktvlive/nktvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",VTV NEWS
+https://cdn.smartstream.video/smartstream-us/vtvlive/vtvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",PRATIDIN TIME
+https://5b48d7e1b4bce.streamlock.net/pratidintime/pratidintime/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",GOA 365
+https://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",RDX GOA
+https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",HIGH NEWS
+https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",HORNBILL TV
+http://172.104.191.216:1935/hornbilltv/hornbilltv/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Indian-News",RASI TAMIL
+https://s1.rasinetworks.in/rasinetworks/rasitamil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Indian-News",RASI MUSIC
+https://s2.rasinetworks.in/rasinetworks/rasimusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Indian-News",RASI COMEDY
+https://s2.rasinetworks.in/rasinetworks/rasicomedy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Indian-News",RASI CLASSIC
+https://s2.rasinetworks.in/rasinetworks/rasiclassic/tracks-v1a1/mono.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",JIO EXCLUSIVE
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=866
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",JIO KIDS
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1430
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",JIO PRIME HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=2149
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",JIO SPECIAL HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=2230
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",JIO CRICKET HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1918
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",SPORTS 18 1 HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1984
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",SPORTS 18 1 SD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1985
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",SPORTS 18 KHEL
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1998
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",COLORS SD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1368
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",COLORS HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=144
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",RISHTEY TV
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=279
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",COLORS CINEPLEX
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=482
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",COLORS CINEPLEX HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1477
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",COLORS SUPERHITS
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1450
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",COLORS BOLLYWOOD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1763
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",AND TV SD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=2024
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",AND TV HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=472
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",AND PICTURES
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1839
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",AND PICTURES HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=185
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZEE TV SD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1351
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZEE TV HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=167
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZEE CINEMA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=484
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZEE CINEMA HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=165
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZEE BOLLYWOOD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=487
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZEE ACTION
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=488
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZEE CLASSIC
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1691
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ANMOL CINEMA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=415
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZEE ANMOL
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=473
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",SHEMAROO TV
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1961
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",SHEMAROO UMANG
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=2078
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",EPIC HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=481
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",B4U MOVIES
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=182
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",B4U KADAK
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1295
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",B4U BHOJPURI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1296
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",BIG MAGIC
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1359
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DANGAL TV
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=701
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ENTERR 10
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=485
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DILLAGI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=534
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DHAMAAL TV
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=535
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",MAHA MOVIES
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=809
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",BFLIX MOVIES
+https://jiotv.nayeemparvez.workers.dev/bpk-tv/Bflix_Movies_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",MANORANJAN TV
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1280
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",MANORANJAN GRAND
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1279
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",MANORANJAN MOVIES
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1281
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",KHUSHBOO TV
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1282
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZEE POCCHIR HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1746
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZEE PUNJABI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1751
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZEE CINEMALU
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1363
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZEE MARATHI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=445
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZEE KANNADA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1362
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZEE TELUGU
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1354
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZEE TAMIL
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1356
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZEE BANGLA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1977
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZEE YUVA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=414
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZEE SARTHAK
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=722
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZEE SALAAM
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=728
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZEE TALKIES
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=153
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",BANGLA CINEMA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=685
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZEE TALKIES HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1358
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZEE MARATHI HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1360
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZEE BANGLA HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1977
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZEE THIRAI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=2256
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",COLORS MARATHI HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=755
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",COLORS KANNADA HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=757
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",COLORS GUJARATI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=196
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",COLORS GUJARATI CINEMA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1324
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",COLORS BANGALI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1369
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",COLORS BANGALA CINEMA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1657
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",COLORS INFINITY
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1158
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",COLORS TAMIL SD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1371
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",COLORS TAMIL HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=429
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",COLORS ORIYA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=198
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",GUJARATI CINEMA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1324
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",COLORS MARATHI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1326
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",COLORS MARATHI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=755
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",COLORS BANGLA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1369
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",COLORS KANNADA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1370
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",COLORS KANNADA CINEMA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1632
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",COLORS INFINITY
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1325
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",COLORS TAMIL
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1371
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",C BANGLA CINEMA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1657
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",PUBLIC MOVIES
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1633
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",SUN BANGLA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1669
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",SUN TV HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=896
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",SUN MUSIC HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=895
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",SUN LIFE
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=682
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",SUN MARATHI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=2424
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",SURYA HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=900
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",SURYA MUSIC
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=747
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",SURYA COMEDY
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1662
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",SURYA MOVIES
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1754
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",GEMINI MOVIES HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=899
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",GEMINI MUSIC HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=898
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",GEMINI TV HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=897
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",GEMINI COMEDY
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=729
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",GEMINI LIFE
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=684
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",UDAYA MOVIES
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=678
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",UDAYA MUSIC
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=744
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",UDAYA HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=901
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",UDAYA COMEDY
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=733
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",KTV HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=894
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",BHOJHPURI CINEMA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=486
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DABANGG
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=532
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",GANGAUR
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=2077
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",RAJ PARIWAR
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=533
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",RAJ TV
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=707
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",RAJ DIGITAL +
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=683
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",RAJ MUSIX
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=748
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",RAJ MUSIX KAN
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=743
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",RAJ MUSIX TELUGU
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=737
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",RAJ MUSIX MALA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=739
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ETV HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1973
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ETV TELUGU
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=629
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ETV ABHIRUCHI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=565
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ETV PLUS
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=2956
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ETV CINEMA SD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=252
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ETV CINEMA HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1665
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ETV AP
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=614
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ETV TELANGANA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=630
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ETV LIFE
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=570
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",MAIBOLI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=736
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",J MOVIES
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=417
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",JAYA TV HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=419
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",JAYA PLUS
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=418
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",JAYA MAX
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=420
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",VISSA TV
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=734
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",FAKHT MARATHI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=738
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",AMRITA TV
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=723
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",VASANTH TV
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=727
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",KAIRALI WE
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=731
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",NEPAL ONE
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=719
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",PITAARA TV
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=946
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",OSCAR MOVIES
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=883
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",AMAAR CINEMA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1962
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",RAMDHENU
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=639
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",I LOVE
+https://jiotv.nayeemparvez.workers.dev/bpk-tv/iLove_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZING
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=585
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",9XM
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=587
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",E24
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=591
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",B4U MUSIC
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=183
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZOOM
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=592
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",MUSIC INDIA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=250
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",MTV
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=248
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",MTV HD+
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1145
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",MTV BEATS
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1400
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",MTV BEATS HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=753
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",9X JALWA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=440
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",9X TASHAN
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=732
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",9X JHAKAAS
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=441
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",MASTIII
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=584
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",POGO HINDI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=559
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",POGO TAMIL
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=542
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",POGO TELUGU
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1883
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",CN HD+
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1079
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",CN HINDI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=816
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",CN TAMIL
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=817
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",CN TAMIL HD+
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1081
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",CN TELUGU
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=166
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",CN TELUGU HD+
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1080
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",SONIC HINDI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=815
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",SONIC TAMIL
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=290
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",SONIC MALAYALAM
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1344
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",SONIC BANGLA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1345
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",SONIC MARATHI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1346
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",SONIC TELUGU
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1242
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",SONIC KANNADA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1243
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DIS KIDS HINDI
+https://jiotv.nayeemparvez.workers.dev/bpk-tv/Discovery_Kids_2_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DIS KIDS HINDI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=554
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DIS KIDS TAMIL
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=550
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",NICK HINDI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=545
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",NICK JR
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=544
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",NICK HD+
+https://jiotv.nayeemparvez.workers.dev/bpk-tv/Nick_HD_Plus_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",NICK KANNADA
+https://jiotv.nayeemparvez.workers.dev/bpk-tv/Nick_Kannada_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",NICK TELUGU
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=543
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",NICK BANGLA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1341
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",NICK MALYALAM
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1340
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",NICK MARATHI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1342
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",NICKELODEON
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=547
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",NICKLODEON JR
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=548
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",NICK TAMIL
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=546
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",CHUTTI TV
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=557
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",CHINTU TV
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=555
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",KUSHI TV
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=558
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",KOCHU TV
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=556
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZOO MOO
+https://jiotv.nayeemparvez.workers.dev/bpk-tv/ZooMoo_HD_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",RONGEEN TV
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1667
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",BBC CBEEBIES
+https://jiotv.nayeemparvez.workers.dev/bpk-tv/BBC_Cbeebies_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",BIRLA BRAINIACS
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1521
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ANIMAL PLANET HINDI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=566
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ANIMAL PLANET
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=567
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ANIMAL PLANET WORLD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=286
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ANIMAL PLANET TAMIL
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1219
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DISCOVERY HINDI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=575
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DISCOVERY
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=242
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DISCOVERY HD WORLD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=463
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DISCOVERY TAMIL
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=569
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DISCOVERY BENGALI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=573
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DISCOVERY TELUGU
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=576
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DISCOVERY ID
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=527
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DISCOVERY SCI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=568
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DISCOVERY TURBO
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=541
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",HISTORY TV18
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1471
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",HISTORY TV18 HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=146
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",HISTORY TV18 HINDI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=578
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",HISTORY TAMIL
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=579
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",HISTORY TELUGU
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=577
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",TRAVEL XP HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=164
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",TRAVEL XP HINDI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=562
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",TRAVEL XP TAMIL
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=814
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",TLC HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=479
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",TLC HINDI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=571
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",TLC ENGLISH
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=574
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",AND FLIX HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1322
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",AND PRIVE HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1349
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",ZEE CAFE HD
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1319
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DD NATIONAL
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=202
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DD SPORTS
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=204
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DD INDIA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=528
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DD MP
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=536
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DD RAJASTHAN
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=538
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DD BIHAR
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=539
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DD UP
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=540
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DD BHARATI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=580
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DD KISAN
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=583
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DD BANGLA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=690
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DD SAHAYADRI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=695
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DD MALAYALAM
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=699
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DD ORIYA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=702
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DD SAPTAGIRI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=706
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DD URDU
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=712
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DD CHANDANA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=713
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DD GIRNAR
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=714
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DD PUNJABI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=715
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DD KASHIR
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=716
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DD NE
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=720
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DD PODHIGAI
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=726
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DD ARUNPRABHA
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1328
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DD ASSAM
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=2759
+#EXTINF:-1 tvg-logo="https://rilstaticasset.akamaized.net/sites/default/files/2024-03/PNG_Download_Jio-Logo-Colour-Green-1024.png" group-title="Indian-Jio",DD GAYN DARSHAN
+https://its-nayeemparvez.xyz/super-jio/play.php?watch=1329
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDkeC1EaMZD0N_N1m-030oilbTuN1j9Qt3A&s" group-title="Discovery-Plus",DIS KIDS HINDI
+https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDkeC1EaMZD0N_N1m-030oilbTuN1j9Qt3A&s" group-title="Discovery-Plus",DIS KIDS KANNADA
+https://varun-iptv.netlify.app/m3u/discoverykidskannada.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDkeC1EaMZD0N_N1m-030oilbTuN1j9Qt3A&s" group-title="Discovery-Plus",DIS KIDS MALAYALAM
+https://varun-iptv.netlify.app/m3u/discoverykidsmalayalam.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDkeC1EaMZD0N_N1m-030oilbTuN1j9Qt3A&s" group-title="Discovery-Plus",DIS KIDS TAMIL
+https://varun-iptv.netlify.app/m3u/discoverykidstamil.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDkeC1EaMZD0N_N1m-030oilbTuN1j9Qt3A&s" group-title="Discovery-Plus",DIS KIDS TELUGU
+https://varun-iptv.netlify.app/m3u/discoverykidstelugu.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDkeC1EaMZD0N_N1m-030oilbTuN1j9Qt3A&s" group-title="Discovery-Plus",DISCOVERY HINDI
+https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDkeC1EaMZD0N_N1m-030oilbTuN1j9Qt3A&s" group-title="Discovery-Plus",DISCOVERY BANGALI
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDkeC1EaMZD0N_N1m-030oilbTuN1j9Qt3A&s" group-title="Discovery-Plus",DISCOVERY ENGLISH
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDkeC1EaMZD0N_N1m-030oilbTuN1j9Qt3A&s" group-title="Discovery-Plus",DISCOVERY KANNADA
+https://varun-iptv.netlify.app/m3u/discoverykannada.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDkeC1EaMZD0N_N1m-030oilbTuN1j9Qt3A&s" group-title="Discovery-Plus",DISCOVEY MALAYALAM
+https://varun-iptv.netlify.app/m3u/discoverymalayalam.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDkeC1EaMZD0N_N1m-030oilbTuN1j9Qt3A&s" group-title="Discovery-Plus",DISCOVERY TAMIL
+https://varun-iptv.netlify.app/m3u/discoverytamil.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDkeC1EaMZD0N_N1m-030oilbTuN1j9Qt3A&s" group-title="Discovery-Plus",DISCOVERY TELEGU
+https://varun-iptv.netlify.app/m3u/discoverytelugu.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDkeC1EaMZD0N_N1m-030oilbTuN1j9Qt3A&s" group-title="Discovery-Plus",DISCOVERY TURBO
+https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDkeC1EaMZD0N_N1m-030oilbTuN1j9Qt3A&s" group-title="Discovery-Plus",ID HD
+https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDkeC1EaMZD0N_N1m-030oilbTuN1j9Qt3A&s" group-title="Discovery-Plus",DISCOVERY SCI
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDkeC1EaMZD0N_N1m-030oilbTuN1j9Qt3A&s" group-title="Discovery-Plus",TLC
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDkeC1EaMZD0N_N1m-030oilbTuN1j9Qt3A&s" group-title="Discovery-Plus",TLC HD
+https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/TLC.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDkeC1EaMZD0N_N1m-030oilbTuN1j9Qt3A&s" group-title="Discovery-Plus",ANIMAL PLANET
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDkeC1EaMZD0N_N1m-030oilbTuN1j9Qt3A&s" group-title="Discovery-Plus",DMAX
+https://varun-iptv.netlify.app/m3u/DMAX.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDkeC1EaMZD0N_N1m-030oilbTuN1j9Qt3A&s" group-title="Discovery-Plus",TRVL
+https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDkeC1EaMZD0N_N1m-030oilbTuN1j9Qt3A&s" group-title="Discovery-Plus",HG TV
+https://varun-iptv.netlify.app/m3u/HGTV.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDkeC1EaMZD0N_N1m-030oilbTuN1j9Qt3A&s" group-title="Discovery-Plus",FOOD NETWORK
+https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
