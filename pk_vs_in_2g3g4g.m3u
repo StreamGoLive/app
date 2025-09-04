@@ -104,79 +104,6 @@ https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",MA AN NEWS
 https://htvmada.mada.ps:4443/maannews/tracks-v1a1/mono.m3u8
 
-#EXTM3U
-#Pakistan-4G
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",MAKKAH TV
-https://tapmadlive.akamaized.net/tapmadold/makkah.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",EURO SPORT
-https://tapmadlive.akamaized.net/tapmadold/eurosports.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",DISCOVERY KIDS
-https://tapmadlive.akamaized.net/tapmadold/discoverykids.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",DISCOVERY CHANNEL
-https://tapmadlive.akamaized.net/tapmadold/discovery.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",BOL ENT
-https://tapmadlive.akamaized.net/tapmadold/bolent.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",FILM WORLD
-https://tapmadlive.akamaized.net/tapmadold/filmworld.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",A TV
-https://tapmadlive.akamaized.net/tapmadold/atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",A PLUS
-https://tapmadlive.akamaized.net/tapmadold/aplus.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",SEE TV HD
-https://tapmadlive.akamaized.net/tapmadold/seetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",PLAY TV
-https://tapmadlive.akamaized.net/tapmadold/playmax.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",AAJ ENTERTAINMENT
-https://tapmadlive.akamaized.net/tapmadold/aajnews.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",DISCOVER PAK
-https://livecdn.live247stream.com/discoverpakistan/tapmad/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",ANIMAL PLANET
-https://tapmadlive.akamaized.net/tapmadold/animal1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",CARTOON NET URDU
-https://tapmadlive.akamaized.net/tapmadold/cartoon.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",SAMAA NEWS
-https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",AAJ NEWS
-https://tapmadlive.akamaized.net/tapmadold/aajent.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",BOL NEWS
-https://tapmadlive.akamaized.net/tapmadold/bolnews.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",METRO ONE NEWS
-https://tapmadlive.akamaized.net/tapmadold/metro.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",KOHE NOOR TV
-https://tapmadlive.akamaized.net/tapmadold/kohenoor.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",NEO NEWS
-https://tapmadlive.akamaized.net/tapmadold/neo.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",24 NEWS HD
-https://tapmadlive.akamaized.net/tapmadold/channel24.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",CHANNEL 5
-https://tapmadlive.akamaized.net/tapmadold/channel5.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",CITY 42 NEWS
-https://tapmadlive.akamaized.net/tapmadold/city42.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",SUCH NEWS
-https://tapmadlive.akamaized.net/tapmadold/sachtv.smil/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",GNN
-https://tapmadlive.akamaized.net/tapmadold/jaagtv.smil/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",K21 NEWS
-https://tapmadlive.akamaized.net/tapmadold/k21.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",DHARTI NEWS
-https://tapmadlive.akamaized.net/tapmadold/dhartitv.smil/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",AVT KHYBER
-https://tapmadlive.akamaized.net/tapmadold/khyber.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",KHYBER NEWS
-https://tapmadlive.akamaized.net/tapmadold/khybernews.smil/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",AWAZ TV
-https://tapmadlive.akamaized.net/tapmadold/awaztv.smil/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",SINDH TV
-https://tapmadlive.akamaized.net/tapmadold/sindhtv.smil/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",SINDH NEWS
-https://tapmadlive.akamaized.net/tapmadold/sindhnews.smil/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",MEHRAN TV
-https://tapmadlive.akamaized.net/tapmadold/mehran.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",KAY 2 TV
-https://tapmadlive.akamaized.net/tapmadold/k2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-4G",VSH NEWS
-https://tapmadlive.akamaized.net/tapmadold/vsh.smil/playlist.m3u8
-
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Drama",HAMARA TV
@@ -283,52 +210,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/KTN-149/playlist.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/WASEB-130/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",MASHRIQ TV
 https://vodzong.mjunoon.tv:8087/streamtest/mashriq-109/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",AFGHAN TV
-https://vodzong.mjunoon.tv:8087/streamtest/AfghanTV-140/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",TIME NEWS
-https://vodzong.mjunoon.tv:8087/streamtest/time-news-172/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",KHYBER NEWS
-https://vodzong.mjunoon.tv:8087/streamtest/KhyberNews-160/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",KTN NEWS
-https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",PTV BOLAN
-https://streams.simpaisa.com:8443/pitvlive4/ptvbolan.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",PTV NATIONAL
-https://streams.simpaisa.com:8443/pitvlive4/ptvnational.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",PASHTO 1
-https://streams.simpaisa.com:8443/pitvlive4/pushto1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",AVT KHYBER TV
-https://streams.simpaisa.com:8443/pitvlive4/khyber.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",AVT KHYBER TV
-https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",AVT KHYBER ME
-https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/index_150_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",KAY 2 TV
-https://streams.simpaisa.com:8443/pitvlive4/k2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",KAY 2 TV
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/index_150_av-p.m3u8?sd=6&rebase=on
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",WASEEB TV
-https://streams.simpaisa.com:8443/pitvlive4/waseeb.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",MEHRAN TV
-https://streams.simpaisa.com:8443/pitvlive4/mehran.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",DHARTI TV
-https://streams.simpaisa.com:8443/pitvlive4/dhartitv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",SINDH TV
-https://streams.simpaisa.com:8443/pitvlive4/sindhtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",AWAZ TV
-https://streams.simpaisa.com:8443/pitvlive4/awaztv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",KTN
-http://103.24.96.74/ktn/ktn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",KASHISH TV
-http://103.24.96.74/ktn/kashish/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",KTN NEWS
-http://103.24.96.74/ktn/ktnnews/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",KHYBER NEWS
-https://streams.simpaisa.com:8443/pitvlive4/khybernews.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",KHYBER NEWS
-https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",VSH NEWS
-https://streams.simpaisa.com:8443/pitvlive4/khybernews.smil/playlist.m3u8
+
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-Movies",MOVIE CLUB
