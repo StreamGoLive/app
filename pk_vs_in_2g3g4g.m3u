@@ -349,12 +349,3 @@ https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/round-flag-india_23-2147813736.jpg" group-title="Indian-News",HIGH NEWS
 https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Indian-News",RASI TAMIL
-https://s1.rasinetworks.in/rasinetworks/rasitamil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Indian-News",RASI MUSIC
-https://s2.rasinetworks.in/rasinetworks/rasimusic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Indian-News",RASI COMEDY
-https://s2.rasinetworks.in/rasinetworks/rasicomedy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Indian-News",RASI CLASSIC
-https://s2.rasinetworks.in/rasinetworks/rasiclassic/tracks-v1a1/mono.m3u8
